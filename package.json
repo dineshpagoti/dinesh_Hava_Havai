@@ -1,7 +1,7 @@
 {
   "name": "dinesh_hava_havai",
   "version": "18.18.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
