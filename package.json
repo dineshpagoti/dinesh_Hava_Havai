@@ -2,6 +2,9 @@
   "name": "dinesh_hava_havai",
   "version": "18.18.0",
   "main": "index.js",
+  "engines": {
+        "node": "20.12.2"
+      }
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
